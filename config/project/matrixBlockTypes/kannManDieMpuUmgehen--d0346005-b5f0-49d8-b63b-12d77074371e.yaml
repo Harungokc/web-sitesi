@@ -1,0 +1,46 @@
+field: d6bcce7f-ed4d-4663-a96a-55f808cb917a # Kann man die MPU umgehen
+fieldLayouts:
+  e09a21b5-96c3-41f5-9f1c-995e764568a1:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: e8f17ecd-74d9-4304-a4eb-1446b322fc22 # Kann man die MPU umgehen
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 5ff709bd-7b1a-40c4-b012-fd21d106f574
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 587146c2-d0e8-44d9-b7cd-9ed890d115b6
+        userCondition: null
+fields:
+  e8f17ecd-74d9-4304-a4eb-1446b322fc22: # Kann man die MPU umgehen
+    columnSuffix: wxuqcseg
+    contentColumnType: text
+    fieldGroup: null
+    handle: kannManDieMpuUmgehen
+    instructions: null
+    name: 'Kann man die MPU umgehen'
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: false
+      columnType: null
+      initialRows: 4
+      multiline: false
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+handle: kannManDieMpuUmgehen
+name: 'Kann man die MPU umgehen'
+sortOrder: 1

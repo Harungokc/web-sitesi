@@ -1,0 +1,67 @@
+fieldLayouts:
+  33e903e5-d7c6-4ce1-8087-9196b65e7425:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\assets\AssetTitleField
+            uid: 7df24bd4-f63c-4457-98f1-39aa07981097
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: fb61aee7-0b43-446b-b5ff-d4c4a6c9c724
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 1f0ae506-5cd3-4fbf-90ec-e388c0f112f7
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 6211c1c3-c79a-4a15-9c28-d0ea1278dc89
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 1acd057b-0812-440d-9814-d8da9a3ac5cb
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 296e6b78-f26c-4538-ae45-5e1b932efe3b
+        userCondition: null
+fs: uberUns
+handle: uberUns
+name: über_uns1
+sortOrder: 1
+titleTranslationKeyFormat: null
+titleTranslationMethod: site
+transformFs: ''
+transformSubpath: ''

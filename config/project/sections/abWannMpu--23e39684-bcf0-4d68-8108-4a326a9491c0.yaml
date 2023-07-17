@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: abWannMpu
+name: 'Ab wann MPU'
+propagationMethod: all
+siteSettings:
+  cfc2c24c-39ec-4be4-adfd-3efaa2770e92: # hamburg-mpu
+    enabledByDefault: true
+    hasUrls: true
+    template: ab-wann-mpu/_entry
+    uriFormat: 'ab-wann-mpu/{slug}'
+type: channel

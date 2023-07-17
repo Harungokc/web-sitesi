@@ -1,0 +1,46 @@
+field: 3e1484ce-2dd0-447a-b4f7-fc74c287f7c5 # Über uns
+fieldLayouts:
+  951ad626-1049-47cb-951d-7ccfed502b7a:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: f131e12b-68e2-4fc2-868a-c0472d2a003c # uber-uns
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 9b3515d1-e296-4d73-8cda-165ed9a6a9b2
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 2888ad21-fa25-4dd0-946a-83e4b6fad7ac
+        userCondition: null
+fields:
+  f131e12b-68e2-4fc2-868a-c0472d2a003c: # uber-uns
+    columnSuffix: aezljgam
+    contentColumnType: text
+    fieldGroup: null
+    handle: uberUns
+    instructions: null
+    name: uber-uns
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: false
+      columnType: null
+      initialRows: 4
+      multiline: false
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+handle: uberUns
+name: uber-uns
+sortOrder: 1

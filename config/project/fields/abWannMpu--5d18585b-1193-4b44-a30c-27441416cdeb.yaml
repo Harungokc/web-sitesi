@@ -1,0 +1,16 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: f5064743-6a3d-4580-9d9e-e29677a3191f # ab-wann-mpu
+handle: abWannMpu
+instructions: null
+name: ab-wann-mpu
+searchable: false
+settings:
+  contentTable: '{{%matrixcontent_abwannmpu}}'
+  maxBlocks: null
+  minBlocks: null
+  propagationKeyFormat: null
+  propagationMethod: all
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

@@ -1,0 +1,43 @@
+fieldLayouts:
+  c89bd7ff-04cd-44f3-9655-d79abe9615a4:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 53ef2a30-e7e2-4430-aa49-aee9c305334c
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 889def1c-f230-4193-8530-54760eb565eb
+        userCondition: null
+handle: default
+hasTitleField: true
+name: Default
+section: f6c38b4c-3750-444f-b132-e9dc0321d7c5 # deneme 
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

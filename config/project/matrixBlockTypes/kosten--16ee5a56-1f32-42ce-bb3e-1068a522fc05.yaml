@@ -1,0 +1,46 @@
+field: 48841f7a-9626-43f0-8fcc-40bb4057c00c # Kosten
+fieldLayouts:
+  e3c02def-4d7b-4ee1-bcc4-8eb2e7f7b820:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: 8cbd42b8-ba8c-45b9-811f-86d663c4f11f # kosten
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 4285b767-58d8-4bdb-bbdf-f50df14bab56
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: d61c0001-a9db-4dd1-b6ce-f44df62b8e9b
+        userCondition: null
+fields:
+  8cbd42b8-ba8c-45b9-811f-86d663c4f11f: # kosten
+    columnSuffix: wlallvqb
+    contentColumnType: text
+    fieldGroup: null
+    handle: kosten
+    instructions: null
+    name: kosten
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: false
+      columnType: null
+      initialRows: 4
+      multiline: false
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+handle: kosten
+name: kosten
+sortOrder: 1

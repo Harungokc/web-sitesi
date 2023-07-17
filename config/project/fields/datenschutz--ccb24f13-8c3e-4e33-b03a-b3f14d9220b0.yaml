@@ -1,0 +1,16 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: 337f697e-6180-4cb0-9dda-ca57dd1489b4 # datenschutz
+handle: datenschutz
+instructions: null
+name: datenschutz
+searchable: false
+settings:
+  contentTable: '{{%matrixcontent_datenschutz}}'
+  maxBlocks: null
+  minBlocks: null
+  propagationKeyFormat: null
+  propagationMethod: all
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

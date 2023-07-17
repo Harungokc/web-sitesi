@@ -1,0 +1,43 @@
+fieldLayouts:
+  30f98b0c-3b73-4085-864f-c74b59628221:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 9bfe90eb-d9d6-416d-a5b5-6f10f09d7e31
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: fc3f4a40-f6a4-497f-b951-2e5c7bf5222b
+        userCondition: null
+handle: default
+hasTitleField: true
+name: Default
+section: 7f27317e-3c03-4506-a1e5-9fef45bed6c0 # MPU Gutachten kaufen
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

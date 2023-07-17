@@ -1,0 +1,16 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: f808fdf5-6207-4616-abab-c620d3da9e48 # haufige-fragen
+handle: haufigeFragenEntry
+instructions: null
+name: haufige-fragen/_entry
+searchable: false
+settings:
+  contentTable: '{{%matrixcontent_haufigefragenentry}}'
+  maxBlocks: null
+  minBlocks: null
+  propagationKeyFormat: null
+  propagationMethod: all
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

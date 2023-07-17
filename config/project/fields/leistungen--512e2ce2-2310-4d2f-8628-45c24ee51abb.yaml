@@ -1,0 +1,16 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: 650db406-a2d9-4e05-b5c4-0b12fc88066a # leistungen
+handle: leistungen
+instructions: null
+name: leistungen
+searchable: false
+settings:
+  contentTable: '{{%matrixcontent_leistungen}}'
+  maxBlocks: null
+  minBlocks: null
+  propagationKeyFormat: null
+  propagationMethod: all
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

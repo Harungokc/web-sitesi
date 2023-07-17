@@ -1,0 +1,16 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: 970e253b-44d2-42c8-9b79-bbd578b9c2a4 # FAQ 
+handle: haufigeFragen
+instructions: null
+name: 'Häufige Fragen'
+searchable: false
+settings:
+  contentTable: '{{%matrixcontent_haufigefragen}}'
+  maxBlocks: null
+  minBlocks: null
+  propagationKeyFormat: null
+  propagationMethod: all
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

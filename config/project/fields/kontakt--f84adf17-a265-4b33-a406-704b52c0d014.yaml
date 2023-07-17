@@ -1,0 +1,16 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: cc605bdc-87ef-4011-9f3d-f1093a3d7c8c # Kontakt
+handle: kontakt
+instructions: null
+name: kontakt
+searchable: false
+settings:
+  contentTable: '{{%matrixcontent_kontakt}}'
+  maxBlocks: null
+  minBlocks: null
+  propagationKeyFormat: null
+  propagationMethod: all
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

@@ -1,0 +1,43 @@
+fieldLayouts:
+  a2264f45-d33b-4063-b48d-6d3f3a13519b:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: d73dc8be-66da-4d62-9eb7-d78192ab0f0f
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 5ce8afac-737c-4fc7-9353-348bc6362ba7
+        userCondition: null
+handle: default
+hasTitleField: true
+name: Default
+section: 6dd340dd-8fcc-4007-b333-07b5232667ea # Kosten
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

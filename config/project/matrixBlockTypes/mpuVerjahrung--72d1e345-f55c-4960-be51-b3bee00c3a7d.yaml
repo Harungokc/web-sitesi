@@ -1,0 +1,46 @@
+field: a5682f98-a043-401d-a25c-dc2906a2a6ce # MPU Verjährung
+fieldLayouts:
+  3e4cfce9-a6ad-402f-a80a-65433b44c2cc:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: 404c6a04-76fd-4271-ba37-efa64f14a9b6 # MPU Verjährung
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: fa0325f8-9304-4171-949f-2dbf115b5095
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: b59038fc-c340-4ed9-93dc-d617a4e95375
+        userCondition: null
+fields:
+  404c6a04-76fd-4271-ba37-efa64f14a9b6: # MPU Verjährung
+    columnSuffix: whpbacpa
+    contentColumnType: text
+    fieldGroup: null
+    handle: mpuVerjahrung
+    instructions: null
+    name: 'MPU Verjährung'
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: false
+      columnType: null
+      initialRows: 4
+      multiline: false
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+handle: mpuVerjahrung
+name: 'MPU Verjährung'
+sortOrder: 1

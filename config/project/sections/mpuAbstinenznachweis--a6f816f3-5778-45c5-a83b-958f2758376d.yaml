@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: mpuAbstinenznachweis
+name: 'MPU Abstinenznachweis'
+propagationMethod: all
+siteSettings:
+  cfc2c24c-39ec-4be4-adfd-3efaa2770e92: # hamburg-mpu
+    enabledByDefault: true
+    hasUrls: true
+    template: mpu-abstinenznachweis/_entry
+    uriFormat: 'mpu-abstinenznachweis/{slug}'
+type: channel

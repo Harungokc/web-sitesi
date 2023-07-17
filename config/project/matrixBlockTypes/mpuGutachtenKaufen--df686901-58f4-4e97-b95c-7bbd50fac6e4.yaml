@@ -1,0 +1,46 @@
+field: 483afa8e-7f41-495f-932a-c2eb93a28f3a # mpu-gutachten-kaufen
+fieldLayouts:
+  cdbc84d3-ac90-4ef0-aa40-d99e69cfd34d:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: 50e5ded3-2356-4c9b-baaa-3e0d805b6261 # mpu-gutachten-kaufen
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: a8139d83-505c-4729-a95a-41330850ef5c
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: dc6aa169-0002-4328-8353-725f6c058f0b
+        userCondition: null
+fields:
+  50e5ded3-2356-4c9b-baaa-3e0d805b6261: # mpu-gutachten-kaufen
+    columnSuffix: sdjzoifw
+    contentColumnType: text
+    fieldGroup: null
+    handle: mpuGutachtenKaufen
+    instructions: null
+    name: mpu-gutachten-kaufen
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: false
+      columnType: null
+      initialRows: 4
+      multiline: false
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+handle: mpuGutachtenKaufen
+name: mpu-gutachten-kaufen
+sortOrder: 1

@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: soFunktioniertDieMpuAnmeldung
+name: 'So funktioniert die MPU Anmeldung'
+propagationMethod: all
+siteSettings:
+  cfc2c24c-39ec-4be4-adfd-3efaa2770e92: # hamburg-mpu
+    enabledByDefault: true
+    hasUrls: true
+    template: so-funktioniert-die-mpu-anmeldung/_entry
+    uriFormat: 'so-funktioniert-die-mpu-anmeldung/{slug}'
+type: channel

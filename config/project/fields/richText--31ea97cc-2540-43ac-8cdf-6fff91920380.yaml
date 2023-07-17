@@ -1,0 +1,16 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: 9927dfb8-a401-4f31-9999-2e1e6227028e # Common
+handle: richText
+instructions: null
+name: 'rich Text'
+searchable: false
+settings:
+  contentTable: '{{%matrixcontent_richtext}}'
+  maxBlocks: 4
+  minBlocks: 0
+  propagationKeyFormat: null
+  propagationMethod: all
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

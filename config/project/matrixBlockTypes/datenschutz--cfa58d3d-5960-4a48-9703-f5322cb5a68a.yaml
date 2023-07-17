@@ -1,0 +1,46 @@
+field: ccb24f13-8c3e-4e33-b03a-b3f14d9220b0 # datenschutz
+fieldLayouts:
+  6718588e-3e54-4d19-95bb-e655d287c086:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: 9daa5246-7a16-401e-81fc-84eead3e2055 # __blank__
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 2a56bd5f-4746-48cd-986c-8d65908bf9a8
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 753379f5-351d-4a52-94a7-2ebc3e62a2b6
+        userCondition: null
+fields:
+  9daa5246-7a16-401e-81fc-84eead3e2055: # __blank__
+    columnSuffix: orelejag
+    contentColumnType: text
+    fieldGroup: null
+    handle: datenschutz
+    instructions: null
+    name: __blank__
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: false
+      columnType: null
+      initialRows: 4
+      multiline: false
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+handle: datenschutz
+name: datenschutz
+sortOrder: 1

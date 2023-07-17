@@ -1,0 +1,16 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: 261fc4dd-50bc-42f0-8989-ed8043c26354 # mpu-gutachten-kaufen
+handle: mpuGutachtenKaufen
+instructions: null
+name: mpu-gutachten-kaufen
+searchable: false
+settings:
+  contentTable: '{{%matrixcontent_mpugutachtenkaufen}}'
+  maxBlocks: null
+  minBlocks: null
+  propagationKeyFormat: null
+  propagationMethod: all
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

@@ -1,0 +1,16 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: 15832fcf-0c35-4f29-bd7b-163f7be88ead # mpu-abstinenznachweis
+handle: mpuAbstinenznachweis
+instructions: null
+name: mpu-abstinenznachweis
+searchable: false
+settings:
+  contentTable: '{{%matrixcontent_mpuabstinenznachweis}}'
+  maxBlocks: null
+  minBlocks: null
+  propagationKeyFormat: null
+  propagationMethod: all
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

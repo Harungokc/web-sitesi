@@ -1,0 +1,16 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: e7398c9b-cb54-4ab3-9eba-918493069667 # mpu-nicht-bestanden
+handle: mpuNichtBestanden
+instructions: null
+name: mpu-nicht-bestanden
+searchable: false
+settings:
+  contentTable: '{{%matrixcontent_mpunichtbestanden}}'
+  maxBlocks: null
+  minBlocks: null
+  propagationKeyFormat: null
+  propagationMethod: all
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

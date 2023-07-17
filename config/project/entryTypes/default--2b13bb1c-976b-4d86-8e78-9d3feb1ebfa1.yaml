@@ -1,0 +1,79 @@
+fieldLayouts:
+  5e86e995-fc83-4eb0-aaab-688a37ca640d:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: befacabd-e81c-4b09-a74f-79501c1cd627
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 31ea97cc-2540-43ac-8cdf-6fff91920380 # rich Text
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 068e15e2-adef-4d77-ab59-182532c16099
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 82eb2124-8d45-4b22-9134-933a7c088c31 # short description
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: b955377a-cedc-4e1b-aa4f-378e79457e97
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 3e1484ce-2dd0-447a-b4f7-fc74c287f7c5 # Über uns
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 585c6645-b06b-4552-9a83-79f79b09fde7
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 761d1404-53de-4121-a186-723dbbc5c8a9
+        userCondition: null
+handle: default
+hasTitleField: true
+name: Default
+section: 2dad0297-4038-403d-8cc6-748fbe9ce09a # stories
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

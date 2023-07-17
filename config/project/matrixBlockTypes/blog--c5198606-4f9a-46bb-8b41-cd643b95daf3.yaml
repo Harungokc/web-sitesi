@@ -1,0 +1,46 @@
+field: ed603080-f83c-4f18-bc2c-c4eedb842551 # blog
+fieldLayouts:
+  73ce7177-0933-4201-aecb-7df4fdd5683c:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: be74aead-0b75-4fa7-9722-64e36280fd73 # blog
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 807f707f-2ae8-4c18-abfa-a04b41413cfa
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: cd8f9a6e-ffe5-401d-8b46-b01fb7128426
+        userCondition: null
+fields:
+  be74aead-0b75-4fa7-9722-64e36280fd73: # blog
+    columnSuffix: zqzvjidb
+    contentColumnType: text
+    fieldGroup: null
+    handle: blog
+    instructions: null
+    name: blog
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: false
+      columnType: null
+      initialRows: 4
+      multiline: false
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+handle: blog
+name: blog
+sortOrder: 1

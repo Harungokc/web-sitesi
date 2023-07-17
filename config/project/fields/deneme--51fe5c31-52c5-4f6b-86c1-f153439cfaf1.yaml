@@ -1,0 +1,16 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: 82692269-3922-4b6d-91af-a5c368eebd61 # Deneme
+handle: deneme
+instructions: null
+name: deneme
+searchable: false
+settings:
+  contentTable: '{{%matrixcontent_deneme}}'
+  maxBlocks: null
+  minBlocks: null
+  propagationKeyFormat: null
+  propagationMethod: all
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

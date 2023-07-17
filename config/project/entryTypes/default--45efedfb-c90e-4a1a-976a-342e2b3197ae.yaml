@@ -1,0 +1,43 @@
+fieldLayouts:
+  f914a3ba-1ef2-4eae-9e4e-4460b69d28f9:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 0d2f7de3-dc0d-43e8-a1ae-63e213c19036
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 016e500d-bd8b-4b40-a2e0-6f788a055bfe
+        userCondition: null
+handle: default
+hasTitleField: true
+name: Default
+section: a65a6bd8-1c98-4e70-b6ee-acf50708000b # Leistungen
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

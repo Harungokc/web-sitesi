@@ -1,0 +1,43 @@
+fieldLayouts:
+  c1f19f3e-35fc-4566-94ae-286b85eb5caa:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 66cc3e3e-6ddf-4c90-b1da-d1c71de2c195
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: f9b40c38-c767-42b6-ab19-98007b423674
+        userCondition: null
+handle: default
+hasTitleField: true
+name: Default
+section: a6f816f3-5778-45c5-a83b-958f2758376d # MPU Abstinenznachweis
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

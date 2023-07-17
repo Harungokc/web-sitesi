@@ -1,0 +1,106 @@
+field: 85b576dc-96db-4ff4-8c32-314e674efdea # recipe contents
+fieldLayouts:
+  4606ffc2-23c6-48df-9c1f-4b071398b4fc:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: 50b7b4dc-d424-4d9c-be2c-eb99e6e8eec1 # image
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 0c36dc44-0419-4dc9-a556-72d2e1446c67
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 7e3c7109-2cf9-48f7-81a7-54a4753ecb30 # image Caption
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 9d63530c-f588-47dd-a513-cbbc2c9659a3
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 0211048a-5837-462d-a22d-9a33f1d7dc5f
+        userCondition: null
+fields:
+  7e3c7109-2cf9-48f7-81a7-54a4753ecb30: # image Caption
+    columnSuffix: apqstccv
+    contentColumnType: text
+    fieldGroup: null
+    handle: imageCaption
+    instructions: null
+    name: 'image Caption'
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: false
+      columnType: null
+      initialRows: 4
+      multiline: false
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+  50b7b4dc-d424-4d9c-be2c-eb99e6e8eec1: # image
+    columnSuffix: null
+    contentColumnType: string
+    fieldGroup: null
+    handle: image
+    instructions: null
+    name: image
+    searchable: false
+    settings:
+      allowSelfRelations: false
+      allowSubfolders: false
+      allowUploads: true
+      allowedKinds: null
+      branchLimit: null
+      defaultUploadLocationSource: 'volume:00f8262b-7278-455b-84af-b4f9e25789ed' # über_uns1
+      defaultUploadLocationSubpath: null
+      localizeRelations: false
+      maintainHierarchy: false
+      maxRelations: 1
+      minRelations: 1
+      previewMode: full
+      restrictFiles: false
+      restrictLocation: false
+      restrictedDefaultUploadSubpath: null
+      restrictedLocationSource: 'volume:00f8262b-7278-455b-84af-b4f9e25789ed' # über_uns1
+      restrictedLocationSubpath: null
+      selectionCondition:
+        __assoc__:
+          -
+            - elementType
+            - craft\elements\Asset
+          -
+            - fieldContext
+            - global
+          -
+            - class
+            - craft\elements\conditions\assets\AssetCondition
+      selectionLabel: null
+      showSiteMenu: false
+      showUnpermittedFiles: false
+      showUnpermittedVolumes: false
+      sources: '*'
+      targetSiteId: null
+      validateRelatedElements: false
+      viewMode: list
+    translationKeyFormat: null
+    translationMethod: site
+    type: craft\fields\Assets
+handle: recipeImage
+name: 'recipe image'
+sortOrder: 1

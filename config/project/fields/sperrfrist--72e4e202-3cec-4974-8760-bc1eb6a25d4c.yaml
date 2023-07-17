@@ -1,0 +1,16 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: e4317d11-152e-4ad8-9090-ec95c206726f # sperrfrist
+handle: sperrfrist
+instructions: null
+name: sperrfrist
+searchable: false
+settings:
+  contentTable: '{{%matrixcontent_sperrfrist}}'
+  maxBlocks: null
+  minBlocks: null
+  propagationKeyFormat: null
+  propagationMethod: all
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

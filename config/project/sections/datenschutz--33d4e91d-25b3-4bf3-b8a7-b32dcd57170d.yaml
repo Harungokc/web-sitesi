@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: datenschutz
+name: Datenschutz
+propagationMethod: all
+siteSettings:
+  cfc2c24c-39ec-4be4-adfd-3efaa2770e92: # hamburg-mpu
+    enabledByDefault: true
+    hasUrls: true
+    template: datenschutz/_entry
+    uriFormat: 'datenschutz/{slug}'
+type: channel

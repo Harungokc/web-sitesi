@@ -1,0 +1,16 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: f0e0d25b-b10a-46ec-af4c-0b092e205ef4 # impressum
+handle: impressum
+instructions: null
+name: impressum
+searchable: false
+settings:
+  contentTable: '{{%matrixcontent_impressum}}'
+  maxBlocks: null
+  minBlocks: null
+  propagationKeyFormat: null
+  propagationMethod: all
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

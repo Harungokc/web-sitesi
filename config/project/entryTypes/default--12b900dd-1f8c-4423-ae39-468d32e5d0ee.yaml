@@ -1,0 +1,43 @@
+fieldLayouts:
+  25db8d5b-a123-432c-ab7e-77c9f19213ec:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: f4cf05af-b2fb-4088-b34e-7afa73ff426e
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: eb27d4e2-feca-4c3a-abbb-d8f4cf29d166
+        userCondition: null
+handle: default
+hasTitleField: true
+name: Default
+section: 5613f77c-da33-438c-9907-05c0624e9ed6 # Impressum
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

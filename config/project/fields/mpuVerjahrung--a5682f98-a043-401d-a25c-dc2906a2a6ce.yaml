@@ -1,0 +1,16 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: 22dcf4d9-5823-45b4-986d-b8c6de04a1a6 # MPU Verjährung
+handle: mpuVerjahrung
+instructions: null
+name: 'MPU Verjährung'
+searchable: false
+settings:
+  contentTable: '{{%matrixcontent_mpuverjahrung}}'
+  maxBlocks: null
+  minBlocks: null
+  propagationKeyFormat: null
+  propagationMethod: all
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

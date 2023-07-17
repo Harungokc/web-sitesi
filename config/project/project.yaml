@@ -1,0 +1,160 @@
+dateModified: 1689515807
+email:
+  fromEmail: harungokce70@gmail.com
+  fromName: hamburg-mpu
+  transportType: craft\mail\transportadapters\Sendmail
+fs:
+  uberUns:
+    hasUrls: true
+    name: über_uns
+    settings:
+      path: $ASSET_BASE_PAHT
+    type: craft\fs\Local
+    url: $ASSET_BASE_URL
+meta:
+  __names__:
+    00f8262b-7278-455b-84af-b4f9e25789ed: über_uns1 # über_uns1
+    1ab0babd-212b-4220-8f1c-382a87d6c520: 'ab-wann-mpu ' # ab-wann-mpu 
+    1dc3afd9-e888-4f28-9808-724601b49eb9: impressum # impressum
+    1deddd73-616d-42cf-b669-2701e73a3404: FAQ # FAQ
+    2b13bb1c-976b-4d86-8e78-9d3feb1ebfa1: Default # Default
+    2c481185-364b-45f7-a07e-efe37bb7a52d: Deneme # Deneme
+    2ccee9d9-f5eb-4315-bd5e-9fbc9aee2b14: Blog # Blog
+    2dad0297-4038-403d-8cc6-748fbe9ce09a: stories # stories
+    3e1484ce-2dd0-447a-b4f7-fc74c287f7c5: 'Über uns' # Über uns
+    3f8b8e76-5f9f-40fa-8aba-2ab3bed68ed8: Default # Default
+    4b3c5b4e-ee29-4abc-8ec1-f8f5abbc1d42: burada # burada
+    5c3b9d7c-9577-418d-90d2-b22757985280: haufige-fragen1 # haufige-fragen1
+    5d18585b-1193-4b44-a30c-27441416cdeb: ab-wann-mpu # ab-wann-mpu
+    5dfc16fc-71d1-49dc-ab5b-a22ea97780a1: 'Häufige Fragen' # Häufige Fragen
+    5fd281c4-b51a-4327-8666-92a46e47a9ef: hamburg-mpu # hamburg-mpu
+    6a307bef-ccd0-480d-9aa4-f6427d4a604b: mpu-abstinenznachweis # mpu-abstinenznachweis
+    6dd340dd-8fcc-4007-b333-07b5232667ea: Kosten # Kosten
+    6f8add5d-184e-4fee-950f-45b1e045f7f5: mpu-nicht-bestanden # mpu-nicht-bestanden
+    7e3c7109-2cf9-48f7-81a7-54a4753ecb30: 'image Caption' # image Caption
+    7f27317e-3c03-4506-a1e5-9fef45bed6c0: 'MPU Gutachten kaufen' # MPU Gutachten kaufen
+    8a971459-13ef-4865-b7b8-9ef375c1d6e6: impressum # impressum
+    8b8ae60f-2365-4ae5-bed5-f6b0f29556ee: 'home page' # home page
+    8cbd42b8-ba8c-45b9-811f-86d663c4f11f: kosten # kosten
+    8fcb15f7-f13b-4c9b-a81c-2f73515f5e49: kontakt # kontakt
+    9daa5246-7a16-401e-81fc-84eead3e2055: __blank__ # __blank__
+    11ac27da-d52b-42f1-99a6-e34e789635c8: 'recipe image' # recipe image
+    12b900dd-1f8c-4423-ae39-468d32e5d0ee: Default # Default
+    15fe9e40-31c1-4379-a131-0ab5648b3def: 'recipes ingredients' # recipes ingredients
+    16ee5a56-1f32-42ce-bb3e-1068a522fc05: kosten # kosten
+    22dcf4d9-5823-45b4-986d-b8c6de04a1a6: 'MPU Verjährung' # MPU Verjährung
+    23e39684-bcf0-4d68-8108-4a326a9491c0: 'Ab wann MPU' # Ab wann MPU
+    27c1c9b9-db54-44ec-ad9d-4e636a76a6a4: mpu-abstinenznachweis # mpu-abstinenznachweis
+    28f813f5-fa34-4b82-98c1-9212dadd521d: Kontakt # Kontakt
+    29f0a600-6045-4263-b5cd-3230ad650235: 'So funktioniert die MPU Anmeldung' # So funktioniert die MPU Anmeldung
+    31ea97cc-2540-43ac-8cdf-6fff91920380: 'rich Text' # rich Text
+    33d4e91d-25b3-4bf3-b8a7-b32dcd57170d: Datenschutz # Datenschutz
+    45efedfb-c90e-4a1a-976a-342e2b3197ae: Default # Default
+    50b7b4dc-d424-4d9c-be2c-eb99e6e8eec1: image # image
+    50e5ded3-2356-4c9b-baaa-3e0d805b6261: mpu-gutachten-kaufen # mpu-gutachten-kaufen
+    51fe5c31-52c5-4f6b-86c1-f153439cfaf1: deneme # deneme
+    72d1e345-f55c-4960-be51-b3bee00c3a7d: 'MPU Verjährung' # MPU Verjährung
+    72e4e202-3cec-4974-8760-bc1eb6a25d4c: sperrfrist # sperrfrist
+    79addd5c-4066-4bcc-8bb3-7087cd16d9e2: 'recipe Steps' # recipe Steps
+    82eb2124-8d45-4b22-9134-933a7c088c31: 'short description' # short description
+    84f847df-87d0-40a5-a280-8e8dd1f60aeb: haufige-fragen1 # haufige-fragen1
+    85b576dc-96db-4ff4-8c32-314e674efdea: 'recipe contents' # recipe contents
+    90bc5d58-13e8-4838-b809-398f4813447e: ab-wann-mpu # ab-wann-mpu
+    91b01214-291c-4730-aff1-82edb18cc9c8: recipes # recipes
+    261fc4dd-50bc-42f0-8989-ed8043c26354: mpu-gutachten-kaufen # mpu-gutachten-kaufen
+    337f697e-6180-4cb0-9dda-ca57dd1489b4: datenschutz # datenschutz
+    349aa0b6-554d-470b-ac95-7bad6dd9d75c: Default # Default
+    404c6a04-76fd-4271-ba37-efa64f14a9b6: 'MPU Verjährung' # MPU Verjährung
+    483afa8e-7f41-495f-932a-c2eb93a28f3a: mpu-gutachten-kaufen # mpu-gutachten-kaufen
+    512e2ce2-2310-4d2f-8628-45c24ee51abb: leistungen # leistungen
+    580c03b3-2f98-4a26-b1f7-bedb2c8b91c5: leistungen/_entry # leistungen/_entry
+    650db406-a2d9-4e05-b5c4-0b12fc88066a: leistungen # leistungen
+    726bb27b-d144-465b-b0c8-567e48986daf: Default # Default
+    732db08e-6edf-4bf1-acf2-6cfae06f300a: Sperrfrist # Sperrfrist
+    885b88c1-95d7-41af-b1f2-efd8095cd0b7: Default # Default
+    904d7c89-0e34-401c-b976-e16ccfad28ae: 'Über uns' # Über uns
+    950a0464-6e0e-4306-ab7a-8e2a9bcd1852: sperrfrist # sperrfrist
+    970e253b-44d2-42c8-9b79-bbd578b9c2a4: 'FAQ ' # FAQ 
+    982a370c-6b04-411b-b6ef-c5130ed27930: mpu-nicht-bestanden # mpu-nicht-bestanden
+    997e02d6-6635-478c-b49e-7e904cfac1a3: 'Häufige Fragen' # Häufige Fragen
+    997fecce-9e11-44ee-8c02-f1e70ed88a0b: Default # Default
+    2282fcbe-d034-4a59-8b75-8e15c60977c3: haufige-fragen # haufige-fragen
+    2578bcd6-a37f-40f1-af9b-46f7abd578d5: Default # Default
+    2613f612-11a1-43c8-bcbc-4e49a9e32fc6: 'Über uns' # Über uns
+    2676f9af-8f29-4dca-b9fa-4614b3079f2d: Default # Default
+    5613f77c-da33-438c-9907-05c0624e9ed6: Impressum # Impressum
+    5907e217-5922-4917-bcc1-3a3b9b291435: impressum # impressum
+    8950dd3d-3188-4384-a9cb-2b511fdfe37e: 'Steps content' # Steps content
+    9927dfb8-a401-4f31-9999-2e1e6227028e: Common # Common
+    11876a0c-f951-44fd-be24-9930bc0f8290: Default # Default
+    15832fcf-0c35-4f29-bd7b-163f7be88ead: mpu-abstinenznachweis # mpu-abstinenznachweis
+    26086f38-456d-46c1-b98a-07cfedab3dc1: uber-uns # uber-uns
+    47449d57-6f79-42d5-87b1-d87b6b1541ad: 'Kann man die MPU umgehen' # Kann man die MPU umgehen
+    48841f7a-9626-43f0-8fcc-40bb4057c00c: Kosten # Kosten
+    59490df8-ba4a-4fb7-a2b3-17c9162c6701: Default # Default
+    693057f1-e505-46d2-8919-aee2ff914a2b: Default # Default
+    04345154-cab3-4300-af11-4f4cc4c98717: 'MPU Verjährung' # MPU Verjährung
+    82692269-3922-4b6d-91af-a5c368eebd61: Deneme # Deneme
+    a0515a92-c80e-4bd4-a4d5-d1b97ba09573: 'MPU nicht bestanden' # MPU nicht bestanden
+    a6f816f3-5778-45c5-a83b-958f2758376d: 'MPU Abstinenznachweis' # MPU Abstinenznachweis
+    a37fa73e-a93d-451d-8dcf-d464797322f2: Default # Default
+    a65a6bd8-1c98-4e70-b6ee-acf50708000b: Leistungen # Leistungen
+    a5682f98-a043-401d-a25c-dc2906a2a6ce: 'MPU Verjährung' # MPU Verjährung
+    b3f21c91-b49a-471c-9f23-bd2ee49a41e5: Default # Default
+    b5a50640-0ab2-4c0a-8c82-f50e1ed79127: Default # Default
+    b6b583e0-eaeb-465f-b559-1da037802640: 'recipe Tip' # recipe Tip
+    b7fdf6f0-594f-404a-b82d-fde412bc7b02: blog # blog
+    b45e5b14-f8a5-4b16-a135-472c26d429e7: recipes # recipes
+    bb7b9913-b91b-462b-b9d4-7f394b975460: Kosten # Kosten
+    bc42ffe9-bb41-4cdb-924c-556c84fa78dd: 'Häufige Fragen' # Häufige Fragen
+    bcc4a04d-69f1-4c5b-8fa0-bf84e7145919: leistungen/_entry # leistungen/_entry
+    be74aead-0b75-4fa7-9722-64e36280fd73: blog # blog
+    bea9c7ae-0537-4189-8704-becb4009e3d6: 'Kann man die MPU umgehen' # Kann man die MPU umgehen
+    c942e337-7009-40da-936c-549965df165a: 'Tip content' # Tip content
+    c5198606-4f9a-46bb-8b41-cd643b95daf3: blog # blog
+    cc605bdc-87ef-4011-9f3d-f1093a3d7c8c: Kontakt # Kontakt
+    cc609380-4f73-430c-8420-5713fe37a8a4: Default # Default
+    ccb24f13-8c3e-4e33-b03a-b3f14d9220b0: datenschutz # datenschutz
+    cf321b76-b07d-4913-9199-585dfa88be9f: sperrfrist # sperrfrist
+    cfa58d3d-5960-4a48-9703-f5322cb5a68a: datenschutz # datenschutz
+    cfc2c24c-39ec-4be4-adfd-3efaa2770e92: hamburg-mpu # hamburg-mpu
+    cfee86f7-46f4-4965-9872-124c7cdde921: mpu-nicht-bestanden # mpu-nicht-bestanden
+    d0346005-b5f0-49d8-b63b-12d77074371e: 'Kann man die MPU umgehen' # Kann man die MPU umgehen
+    d1d65e01-9f69-42d2-8200-41ba988d2927: uber-uns # uber-uns
+    d6bcce7f-ed4d-4663-a96a-55f808cb917a: 'Kann man die MPU umgehen' # Kann man die MPU umgehen
+    d9b4ba5e-d25d-44cf-9035-61ca26179973: kontakt # kontakt
+    d98e95db-9be7-47e4-80ad-909cc5336d4a: Deneme # Deneme
+    d539e8ca-720e-4154-98e5-56ed56b69e6e: ingredients # ingredients
+    d4190b89-a752-4023-92e9-2aca9fd60216: 'recipe Copy' # recipe Copy
+    db3e292b-a49f-474e-9ec6-064ab7da7c3a: 'Steps Title' # Steps Title
+    dd27f1e7-2795-49fe-b357-5aea4ad224ca: Default # Default
+    df686901-58f4-4e97-b95c-7bbd50fac6e4: mpu-gutachten-kaufen # mpu-gutachten-kaufen
+    e0cfbef9-a682-499c-88fa-bf2e9ff5e87d: haufige-fragen/_entry # haufige-fragen/_entry
+    e02bf93f-c2a2-4008-a21b-1e61d9dcee9d: so-funktioniert-die-mpu-anmeldung # so-funktioniert-die-mpu-anmeldung
+    e096d16d-9ab1-46ab-8020-8d3bbb0f7254: mpu-abstinenznachweis # mpu-abstinenznachweis
+    e1ea5933-1699-473c-9d33-5c4f96c3d3d6: 'über uns' # über uns
+    e8f17ecd-74d9-4304-a4eb-1446b322fc22: 'Kann man die MPU umgehen' # Kann man die MPU umgehen
+    e4317d11-152e-4ad8-9090-ec95c206726f: sperrfrist # sperrfrist
+    e7398c9b-cb54-4ab3-9eba-918493069667: mpu-nicht-bestanden # mpu-nicht-bestanden
+    ed603080-f83c-4f18-bc2c-c4eedb842551: blog # blog
+    ef610fa4-3df7-49eb-a26f-4bfd261d3f5b: haufige-fragen/_entry # haufige-fragen/_entry
+    f0e0d25b-b10a-46ec-af4c-0b092e205ef4: impressum # impressum
+    f6c38b4c-3750-444f-b132-e9dc0321d7c5: 'deneme ' # deneme 
+    f84adf17-a265-4b33-a406-704b52c0d014: kontakt # kontakt
+    f131e12b-68e2-4fc2-868a-c0472d2a003c: uber-uns # uber-uns
+    f808fdf5-6207-4616-abab-c620d3da9e48: haufige-fragen # haufige-fragen
+    f5064743-6a3d-4580-9d9e-e29677a3191f: ab-wann-mpu # ab-wann-mpu
+    fcbeb689-80c1-4fdb-974c-0297eec47d3b: Default # Default
+    ffebc996-f08f-462f-8b9b-e844f113f572: 'Bosy Content' # Bosy Content
+system:
+  edition: solo
+  live: true
+  name: hamburg-mpu
+  schemaVersion: 4.4.0.4
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

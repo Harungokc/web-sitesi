@@ -1,0 +1,19 @@
+columnSuffix: hoaqhads
+contentColumnType: text
+fieldGroup: 84f847df-87d0-40a5-a280-8e8dd1f60aeb # haufige-fragen1
+handle: haufigeFragen1
+instructions: null
+name: haufige-fragen1
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: true
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

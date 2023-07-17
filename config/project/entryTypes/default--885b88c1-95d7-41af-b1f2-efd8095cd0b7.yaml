@@ -1,0 +1,43 @@
+fieldLayouts:
+  a2d427c7-3e1a-4ea8-af51-873664db68ab:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 6c83dde3-c856-46c7-be80-dd1a552c81b2
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: be8abd6c-0d1f-4c34-b233-6195b992588e
+        userCondition: null
+handle: default
+hasTitleField: true
+name: Default
+section: 04345154-cab3-4300-af11-4f4cc4c98717 # MPU Verjährung
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

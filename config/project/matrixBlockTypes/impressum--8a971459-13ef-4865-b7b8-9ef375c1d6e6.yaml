@@ -1,0 +1,46 @@
+field: 5907e217-5922-4917-bcc1-3a3b9b291435 # impressum
+fieldLayouts:
+  0d62171e-7f96-4b2f-8425-f8d494d21251:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: 1dc3afd9-e888-4f28-9808-724601b49eb9 # impressum
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: b715b3ba-0b2e-41cd-868c-bb13216ce944
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 8eea8c30-240c-48ea-833e-4f73572b6ebb
+        userCondition: null
+fields:
+  1dc3afd9-e888-4f28-9808-724601b49eb9: # impressum
+    columnSuffix: bnwmpyta
+    contentColumnType: text
+    fieldGroup: null
+    handle: impressum
+    instructions: null
+    name: impressum
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: false
+      columnType: null
+      initialRows: 4
+      multiline: false
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+handle: impressum
+name: impressum
+sortOrder: 1

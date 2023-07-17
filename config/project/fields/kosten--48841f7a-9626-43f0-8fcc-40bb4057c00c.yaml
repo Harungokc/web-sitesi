@@ -1,0 +1,16 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: bb7b9913-b91b-462b-b9d4-7f394b975460 # Kosten
+handle: kosten
+instructions: null
+name: Kosten
+searchable: false
+settings:
+  contentTable: '{{%matrixcontent_kosten}}'
+  maxBlocks: null
+  minBlocks: null
+  propagationKeyFormat: null
+  propagationMethod: all
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

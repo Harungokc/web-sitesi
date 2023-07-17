@@ -1,0 +1,46 @@
+field: e0cfbef9-a682-499c-88fa-bf2e9ff5e87d # haufige-fragen/_entry
+fieldLayouts:
+  68fa34d7-4b4c-4ab6-94a6-89c76277448b:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: ef610fa4-3df7-49eb-a26f-4bfd261d3f5b # haufige-fragen/_entry
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 5cc4c5df-bc80-42e4-938f-fe0a3aa3658b
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 3961cf18-fb7c-4a0a-84fe-9532af1f65cd
+        userCondition: null
+fields:
+  ef610fa4-3df7-49eb-a26f-4bfd261d3f5b: # haufige-fragen/_entry
+    columnSuffix: vdvcqcmu
+    contentColumnType: text
+    fieldGroup: null
+    handle: haufigeFragenEntry
+    instructions: null
+    name: haufige-fragen/_entry
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: false
+      columnType: null
+      initialRows: 3
+      multiline: true
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+handle: haufigeFragen
+name: haufige-fragen
+sortOrder: 1

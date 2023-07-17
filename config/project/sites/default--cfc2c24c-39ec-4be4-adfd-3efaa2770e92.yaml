@@ -1,0 +1,9 @@
+baseUrl: $PRIMARY_SITE_URL
+enabled: true
+handle: default
+hasUrls: true
+language: tr
+name: hamburg-mpu
+primary: true
+siteGroup: 5fd281c4-b51a-4327-8666-92a46e47a9ef # hamburg-mpu
+sortOrder: 1

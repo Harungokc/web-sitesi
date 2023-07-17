@@ -1,0 +1,16 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: bea9c7ae-0537-4189-8704-becb4009e3d6 # Kann man die MPU umgehen
+handle: kannManDieMpuUmgehen
+instructions: null
+name: 'Kann man die MPU umgehen'
+searchable: false
+settings:
+  contentTable: '{{%matrixcontent_kannmandiempuumgehen}}'
+  maxBlocks: null
+  minBlocks: null
+  propagationKeyFormat: null
+  propagationMethod: all
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

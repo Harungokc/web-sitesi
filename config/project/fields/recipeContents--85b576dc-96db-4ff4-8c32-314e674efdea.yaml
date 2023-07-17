@@ -1,0 +1,16 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: 91b01214-291c-4730-aff1-82edb18cc9c8 # recipes
+handle: recipeContents
+instructions: null
+name: 'recipe contents'
+searchable: false
+settings:
+  contentTable: '{{%matrixcontent_recipecontents}}'
+  maxBlocks: null
+  minBlocks: null
+  propagationKeyFormat: null
+  propagationMethod: all
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

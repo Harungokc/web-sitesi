@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: stories
+name: stories
+propagationMethod: all
+siteSettings:
+  cfc2c24c-39ec-4be4-adfd-3efaa2770e92: # hamburg-mpu
+    enabledByDefault: true
+    hasUrls: true
+    template: stories/_entry
+    uriFormat: 'stories/{slug}'
+type: channel
